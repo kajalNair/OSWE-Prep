@@ -3,25 +3,25 @@ An OSWE Guide
 
 
 #### WriteUps
-https://stacktrac3.co/oswe-review-awae-course/
-https://github.com/wetw0rk/AWAE-PREP
-https://github.com/timip/OSWE
-https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside
-https://anchor.fm/dayzerosec/episodes/Offensive-Securitys-OSWEAWAE--Massive-Security-failures--and-a-handful-of-cool-attacks-e45m85
-https://www.linkedin.com/pulse/lets-get-oswe-certificate-part-i-recon-istv%25C3%25A1n-b%25C3%25B6hm/
-https://donavan.sg/blog/index.php/2020/03/14/the-awae-oswe-journey-a-review/
-https://medium.com/@fasthm00/the-state-of-oswe-c68150210fe4
-https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/
-https://github.com/deletehead/awae_oswe_prep
-https://github.com/M507/AWAE-Preparation
-https://www.vesiluoma.com/offensive-security-web-expert-oswe-advanced-web-attacks-and-exploitation/
-https://blog.bousalman.com/oswe-review/
-https://www.youtube.com/playlist?list=PLwvifWoWyqwqkmJ3ieTG6uXUSuid95L33
-https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide
-https://medium.com/@it_band/how-i-passed-the-oswe-exam-3de88bdbad2c
-https://www.reddit.com/r/OSWE/comments/bsods2/i_just_passed_the_oswe_exam_amaa_about_the_exam/
-https://nethemba.com/are-you-preparing-for-oswe-or-oscp-certification/
-https://kishanchoudhary.com/OSWE/Journey/OSWE.html
+[https://stacktrac3.co/oswe-review-awae-course/]
+[https://github.com/wetw0rk/AWAE-PREP]
+[https://github.com/timip/OSWE]
+[https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside]
+[https://anchor.fm/dayzerosec/episodes/Offensive-Securitys-OSWEAWAE--Massive-Security-failures--and-a-handful-of-cool-attacks-e45m85]
+[https://www.linkedin.com/pulse/lets-get-oswe-certificate-part-i-recon-istv%25C3%25A1n-b%25C3%25B6hm/]
+[https://donavan.sg/blog/index.php/2020/03/14/the-awae-oswe-journey-a-review/]
+[https://medium.com/@fasthm00/the-state-of-oswe-c68150210fe4]
+[https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/]
+[https://github.com/deletehead/awae_oswe_prep]
+[https://github.com/M507/AWAE-Preparation]
+[https://www.vesiluoma.com/offensive-security-web-expert-oswe-advanced-web-attacks-and-exploitation/]
+[https://blog.bousalman.com/oswe-review/]
+[https://www.youtube.com/playlist?list=PLwvifWoWyqwqkmJ3ieTG6uXUSuid95L33]
+[https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide]
+[https://medium.com/@it_band/how-i-passed-the-oswe-exam-3de88bdbad2c]
+[https://www.reddit.com/r/OSWE/comments/bsods2/i_just_passed_the_oswe_exam_amaa_about_the_exam/]
+[https://nethemba.com/are-you-preparing-for-oswe-or-oscp-certification/]
+[https://kishanchoudhary.com/OSWE/Journey/OSWE.html]
 
 
 #### Remote Code Execution
