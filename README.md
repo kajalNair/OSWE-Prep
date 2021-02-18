@@ -44,42 +44,75 @@ An OSWE Guide
 
 #### Remote Code Execution
 https://shells.systems/
+
 https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc
+
 https://github.com/shawnmckinney/remote-code-execution-sample
+
 https://www.gosecure.net/blog/2019/07/03/java-remote-code-execution-potpourri/
+
 https://labs.bishopfox.com/tech-blog/2015/08/coldfusion-bomb-a-chain-reaction-from-xss-to-rce
+
 https://voidsec.com/tabletopia-from-xss-to-rce/
+
 https://blog.ripstech.com/2019/magento-rce-via-xss/
+
 https://medium.com/@knownsec404team/the-analysis-of-mybb-18-20-from-stored-xss-to-rce-7234d7cc0e72
+
 https://sarthaksaini.com/2019/awae/xss-rce.html
+
 https://s0md3v.github.io/xss-to-rce/
+
 https://anotherhackerblog.com/exploiting-file-uploads-pt-2/
+
 https://labs.bishopfox.com/advisories/openemr-5-0-16-remote-code-execution-cross-site-scripting
+
 https://zero.lol/2019-05-13-xss-to-rce/
+
 https://lwierzbicki.github.io/2020/06/10/from-file-upload-to-rce.html
+
 https://www.corben.io/atlassian-crowd-rce/
+
 https://rebraws.github.io/ATutor/
+
 https://github.com/fuzzlove/ATutor-2.2.4-Language-Exploit
+
 https://underdefense.com/n-day-exploit-development-and-upgrade-to-rce/
+
 https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/
+
 https://www.exploit-db.com/exploits/39534
+
 https://www.exploit-db.com/exploits/39524
+
 https://ssd-disclosure.com/ssd-advisory-auth-bypass-and-rce-in-infinite-wp-admin-panel/
+
 https://github.com/kacperszurek/exploits/blob/master/GitList/gitlist_unauthenticated_rce.py
+
 https://medium.com/cisco-amp-technology/remote-code-execution-for-java-developers-84adb8e23652
+
 https://wiki.sei.cmu.edu/confluence/display/java/IDS07-J.+Sanitize+untrusted+data+passed+to+the+Runtime.exec%28%29+method
+
 https://github.com/pwntester/SpringBreaker
 
 
 #### Misc
 https://ippsec.rocks/?#
+
 https://www.bitdefender.com/blog/consumer/avoid-malicious-files-double-extensions/
+
 https://js.getwisdom.io/til-js-safely-reversing-unicode-strings/
+
 https://eng.getwisdom.io/awesome-unicode/
+
 https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectGraph.html#//apple_ref/doc/uid/TP40008195-CH54-SW1
+
 https://www.hackingarticles.in/get-reverse-shell-via-windows-one-liner/
+
 https://netsec.ws/?p=331
+
 https://codewhitesec.blogspot.com/2015/03/sh-or-getting-shell-environment-from.html
+
 http://www.jackson-t.ca/runtime-exec-payloads.html
 
 
