@@ -96,26 +96,6 @@ https://wiki.sei.cmu.edu/confluence/display/java/IDS07-J.+Sanitize+untrusted+dat
 https://github.com/pwntester/SpringBreaker
 
 
-#### Misc
-https://ippsec.rocks/?#
-
-https://www.bitdefender.com/blog/consumer/avoid-malicious-files-double-extensions/
-
-https://js.getwisdom.io/til-js-safely-reversing-unicode-strings/
-
-https://eng.getwisdom.io/awesome-unicode/
-
-https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectGraph.html#//apple_ref/doc/uid/TP40008195-CH54-SW1
-
-https://www.hackingarticles.in/get-reverse-shell-via-windows-one-liner/
-
-https://netsec.ws/?p=331
-
-https://codewhitesec.blogspot.com/2015/03/sh-or-getting-shell-environment-from.html
-
-http://www.jackson-t.ca/runtime-exec-payloads.html
-
-
 #### File Upload Vulnerability
 https://www.slideshare.net/HackIT-ukraine/15-technique-to-exploit-file-upload-pages-ebrahim-hegazy
 
@@ -334,6 +314,27 @@ https://0day.work/jinja2-template-injection-filter-bypasses/
 https://medium.com/@nyomanpradipta120/jinja2-ssti-filter-bypasses-a8d3eb7b000f
 
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#jinja2
+
+
+#### Misc
+https://ippsec.rocks/?#
+
+https://www.bitdefender.com/blog/consumer/avoid-malicious-files-double-extensions/
+
+https://js.getwisdom.io/til-js-safely-reversing-unicode-strings/
+
+https://eng.getwisdom.io/awesome-unicode/
+
+https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectGraph.html#//apple_ref/doc/uid/TP40008195-CH54-SW1
+
+https://www.hackingarticles.in/get-reverse-shell-via-windows-one-liner/
+
+https://netsec.ws/?p=331
+
+https://codewhitesec.blogspot.com/2015/03/sh-or-getting-shell-environment-from.html
+
+http://www.jackson-t.ca/runtime-exec-payloads.html
+
 
 
 
